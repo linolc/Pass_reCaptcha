@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96b931c7-405c-43f2-813d-1ca411d6720f" name="Changes" comment="Initial Commit" />
+    <list default="true" id="96b931c7-405c-43f2-813d-1ca411d6720f" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/pyPassCaptcha.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyPassreCaptcha.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +32,7 @@
     "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.pyPassCaptcha">
+  <component name="RunManager" selected="Python.pyPassreCaptcha">
     <configuration name="Pass_Captcha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PassCaptcha" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -52,7 +54,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pyPassCaptcha" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="pyPassreCaptcha" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PassCaptcha" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\linol\Documents\pythonProjects\PassCaptcha\pyPassCaptcha.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\linol\Documents\pythonProjects\PassCaptcha\pyPassreCaptcha.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656521082029</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1663890467413</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663890467413</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-# Pass CAPTCHA v1.0
+# Pass reCAPTCHA v1.0
 # Libs
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
