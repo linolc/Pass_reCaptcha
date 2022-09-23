@@ -1,12 +1,15 @@
-# pyPass_reCaptcha <a href="https://github.com/linolc/Pass_reCaptcha/blob/master/LICENSE.txt"><img alt="GitHub license" src="https://img.shields.io/github/license/linolc/Pass_reCaptcha"></a>
+# pyPass_reCaptcha
 
 
 Script simples em Python para automatizar a resolução de reCaptcha
 
-## Problemas Comuns
 
-Durante a execução, em um momento raro pode ocorrer do reCaptcha decectar a automação. Sugiro limpeza de cookies, alteração de proxy e/ou aguardar alguns minutos para executar novamente.
+## Contornando anti-bot
 
+- Utilizar user-agent (Mozilla/5.0)
+- Dependendo da quantidade de carga, incluir código para alterar o proxy a cada solicitação.
+- Utilizar intervalo de tempo entre as solicitações. (time.sleep())
+- Patch para o Selenium que não aciona o anti-bot ([undetected_chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver))
 
 ## Referência
 
@@ -19,6 +22,3 @@ Durante a execução, em um momento raro pode ocorrer do reCaptcha decectar a au
 ## Licença
 
 [MIT](https://github.com/linolc/Pass_reCaptcha/blob/master/LICENSE.txt)
-
-
-
